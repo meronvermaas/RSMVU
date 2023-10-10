@@ -4,8 +4,8 @@
 remote_theme: LeakyAbstractions/pretty-docs
 url: https://leakyabstractions.github.io
 baseurl: /pretty-docs
-title: &site_title Pretty Docs
-description: &site_description Free Bootstrap theme for your project documentation
+title: &site_title RSM at the VU
+description: &site_description Guidance for all your research software development and maintenance
 branding:
   icon:
     name: icon_documents_alt
