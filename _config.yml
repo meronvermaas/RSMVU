@@ -10,7 +10,7 @@ branding:
   icon:
     name: icon_documents_alt
   highlight: RSM
-  bold: "@"VU
+  bold: '@VU'
 markdown: kramdown
 kramdown:
   auto_ids: true
