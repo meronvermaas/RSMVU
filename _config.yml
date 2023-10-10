@@ -2,10 +2,10 @@
 # Site settings
 #
 remote_theme: LeakyAbstractions/pretty-docs
-url: https://leakyabstractions.github.io
-baseurl: /pretty-docs
-title: &site_title Pretty Docs
-description: &site_description Free Bootstrap theme for your project documentation
+url: https://vu.nl
+baseurl: /meronvermaas
+title: &site_title VU brings RSM to you
+description: &site_description VU brings RSM to you
 branding:
   icon:
     name: icon_documents_alt
@@ -27,11 +27,11 @@ kramdown:
 # Owner
 #
 owner:
-  name: Guillermo Calvo
-  twitter: &site_owner_twitter gcalvo
+  name: VU RDS
+  twitter: &site_owner_twitter VU_RDS
   copyright:
     notice: Lorem Ipsum
-    author: "[Guillermo Calvo](https://guillermo.in/)"
+    author: "[VU](https://vu.nl/nl/medewerker/research-data-support)"
 
 
 #
@@ -61,7 +61,7 @@ share:
     text: &site_description
     title: Tweet
   github:
-    repo: LeakyAbstractions/pretty-docs
+    repo: meronvermaas/pretty-docs
     position: right
     color: red
 
