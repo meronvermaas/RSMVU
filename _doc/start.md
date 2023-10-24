@@ -1,6 +1,6 @@
 ---
 title: Quick Start
-excerpt: Where to begin
+excerpt: Begin making your code more FAIR
 date: 2023-10-24
 icon:
   type: fa
