@@ -7,7 +7,7 @@ Do you write code for data analysis or computational experiments as part of a re
 We can advise you on the best software practices adapted to your needs and help you develop your software and code in good conditions.
 Developing code or software in a FAIR and sustainable way requires some steps, but you don't have to do everthing all at once. Are you:
 
-[Planning your research](#Code){: .btn .btn-primary}
+[Planning your research](#/Code){: .btn .btn-primary}
 
 [Doing your research](#){: .btn .btn-primary}
 
