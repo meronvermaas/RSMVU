@@ -9,4 +9,6 @@ Developing code or software in a FAIR and sustainable way requires some steps, b
 
 [*&nbsp;*{: .fa .fa-download} Planning your research](http://themes.3rdwavemedia.com){: .btn .btn-green}
 
+[*&nbsp;*{: .fa .fa-download} Doing your research](http://themes.3rdwavemedia.com){: .btn .btn-green}
+
 [*&nbsp;*{: .fa .fa-download} Finishing your research](http://themes.3rdwavemedia.com){: .btn .btn-green}
