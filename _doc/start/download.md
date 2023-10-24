@@ -2,9 +2,11 @@
 title: Download
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec imperdiet turpis. Curabitur aliquet pulvinar ultrices.
-Etiam at posuere leo. Proin ultrices ex et dapibus feugiat [link example](#) aenean purus leo, faucibus at elit vel, aliquet scelerisque dui.
-Etiam quis elit euismod, imperdiet augue sit amet, imperdiet odio. Aenean sem erat, hendrerit  eu gravida id, dignissim ut ante.
-Nam consequat porttitor libero euismod congue.
+Do you write code for data analysis or computational experiments as part of a research project? Or develop software tools for reuse across projects? Depending on your field of research, you may be able to rely on established practices or find yourself wondering which software practices to follow.
 
-[*&nbsp;*{: .fa .fa-download} Download PrettyDocs](http://themes.3rdwavemedia.com){: .btn .btn-green}
+We can advise you on the best software practices adapted to your needs and help you develop your software and code in good conditions.
+Developing code or software in a FAIR and sustainable way requires some steps, but you don't have to do everthing all at once. Are you:
+
+[*&nbsp;*{: .fa .fa-download} Planning your research](http://themes.3rdwavemedia.com){: .btn .btn-green}
+
+[*&nbsp;*{: .fa .fa-download} Finishing your research](http://themes.3rdwavemedia.com){: .btn .btn-green}
